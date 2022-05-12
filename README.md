@@ -9,6 +9,8 @@ for the appointment management of a veterinarian
 
 
 
+
+
 ### React Native
 
 This project was made in Javascript with the library
@@ -43,3 +45,16 @@ You need to have installed
 #### Complements
 - Flipper
 - React Dev Tools
+
+## Authors
+
+- [@RichyVaca](https://github.com/RichyVaca)
+- [@Juan Pablo De la torre Valdez From Udemy](https://www.udemy.com/course/react-native-crea-aplicaciones-para-android-y-ios-con-react/)
+
+## Screenshots
+
+![App Screenshot](./screenshots/Screenshot_1652380612.png)
+![App Screenshot](./screenshots/Screenshot_1652380619.png)
+![App Screenshot](./screenshots/Screenshot_1652380641.png)
+
+
