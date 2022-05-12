@@ -53,8 +53,8 @@ You need to have installed
 
 ## Screenshots
 
-![App Screenshot](./screenshots/Screenshot_1652380612.png)
-![App Screenshot](./screenshots/Screenshot_1652380619.png)
-![App Screenshot](./screenshots/Screenshot_1652380641.png)
+![App Screenshot](./screenshots/Screenshot_1652380612.png = 250x)
+![App Screenshot](./screenshots/Screenshot_1652380619.png = 250x)
+![App Screenshot](./screenshots/Screenshot_1652380641.png = 250x)
 
 
